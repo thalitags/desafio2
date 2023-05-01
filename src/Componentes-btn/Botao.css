@@ -1,0 +1,9 @@
+#botaogeral {
+    background-color:transparent;
+    border-radius: 45%;
+    border: solid 1px#8484ad;
+    margin: 15px;
+    padding: 10px 10px 5px 10px;
+    font: size 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

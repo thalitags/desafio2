@@ -1,0 +1,19 @@
+#principal{
+ background-color: rgb(15, 4, 41);
+ width: 80%;
+ height:400px; 
+ display:flex;
+ flex-direction:row;
+};
+
+#imgprincipal {
+background-color: bisque;
+width: 80%;
+height:400px; 
+};
+
+#textoprincipal {
+background-color: brown;
+width: 80%;
+height:400px; 
+};
